@@ -1,0 +1,12 @@
+.image-thumbnail {
+    height: 48px;
+    max-width: 48px;
+}
+
+.filter-group {
+    border-bottom: 1px solid #e4e4e4
+}
+
+.form-control{
+    width: 80px;
+}
